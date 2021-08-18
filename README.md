@@ -20,3 +20,6 @@
   b.窗口标签组件通过store和缓存<keep-alive :include="setAlive">来实现
                         
 5.服务端连接mysql数据库，用了一点express，学习了如何客户端时如何通过ajax接口连接到服务端，服务端又是如何处理数据，返回数据
+        
+        login username:admin
+              password:123456
